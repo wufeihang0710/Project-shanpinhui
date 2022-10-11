@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkshanpinhui"]=self["webpackChunkshanpinhui"]||[]).push([[207],{6207:function(n,u,e){e.r(u),e.d(u,{default:function(){return h}});var r=function(){var n=this,u=n._self._c;return u("div",[n._v("这是团购订单")])},i=[],l={name:"groupOrder"},s=l,t=e(1001),a=(0,t.Z)(s,r,i,!1,null,null,null),h=a.exports}}]);
